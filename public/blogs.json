@@ -4,7 +4,7 @@
     "cover": "https://i.ibb.co/5sVn8Ks/technology-communication-icons-symbols-concept.jpg",
     "title": "The Art of Programming",
     "author": "John Smith",
-    "author_img": "https://example.com/john_smith.jpg",
+    "author_img": "https://i.ibb.co/MSDRFBW/1.jpg",
     "posted_date": "2024-03-15",
     "reading_time": 45,
     "hashtags": ["programming", "coding", "development"]
@@ -14,7 +14,7 @@
     "cover": "https://i.ibb.co/5rK06Q3/flat-lay-desktop-with-notebook-pizza.jpg",
     "title": "Cooking Made Easy",
     "author": "Alice Johnson",
-    "author_img": "https://example.com/alice_johnson.jpg",
+    "author_img": "https://i.ibb.co/6yT8RzP/2.jpg",
     "posted_date": "2024-03-14",
     "reading_time": 30,
     "hashtags": ["cooking", "recipes", "food"]
@@ -24,27 +24,27 @@
     "cover": "https://i.ibb.co/yqJcT1w/blogging-gone-viral-camera-concept.jpg",
     "title": "Fitness Essentials",
     "author": "David Lee",
-    "author_img": "https://example.com/david_lee.jpg",
+    "author_img": "https://i.ibb.co/L6tqB9c/3.jpg",
     "posted_date": "2024-03-13",
     "reading_time": 60,
     "hashtags": ["fitness", "exercise", "health"]
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co/5sVn8Ks/technology-communication-icons-symbols-concept.jpg",
+    "cover": "https://i.ibb.co/TkNb9qv/annie-spratt-g9-KFp-Af-Q5bc-unsplash.jpg",
     "title": "Traveling the World",
     "author": "Emily Brown",
-    "author_img": "https://example.com/emily_brown.jpg",
+    "author_img": "https://i.ibb.co/BcJz3G3/4.jpg",
     "posted_date": "2024-03-12",
     "reading_time": 75,
     "hashtags": ["travel", "adventure", "explore"]
   },
   {
     "id": 5,
-    "cover": "https://i.ibb.co/5sVn8Ks/technology-communication-icons-symbols-concept.jpg",
+    "cover": "https://i.ibb.co/TBWDGBH/brooke-cagle-t-LG2hcp-ITZE-unsplash.jpg",
     "title": "Art and Culture",
     "author": "Michael Wang",
-    "author_img": "https://example.com/michael_wang.jpg",
+    "author_img": "https://i.ibb.co/0QJcKhh/5.jpg",
     "posted_date": "2024-03-11",
     "reading_time": 50,
     "hashtags": ["art", "culture", "history"]
