@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/5sVn8Ks/technology-communication-icons-symbols-concept.jpg",
+    "title": "The Art of Programming",
+    "author": "John Smith",
+    "author_img": "https://example.com/john_smith.jpg",
+    "posted_date": "2024-03-15",
+    "reading_time": 45,
+    "hashtags": ["programming", "coding", "development"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/5rK06Q3/flat-lay-desktop-with-notebook-pizza.jpg",
+    "title": "Cooking Made Easy",
+    "author": "Alice Johnson",
+    "author_img": "https://example.com/alice_johnson.jpg",
+    "posted_date": "2024-03-14",
+    "reading_time": 30,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/yqJcT1w/blogging-gone-viral-camera-concept.jpg",
+    "title": "Fitness Essentials",
+    "author": "David Lee",
+    "author_img": "https://example.com/david_lee.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": 60,
+    "hashtags": ["fitness", "exercise", "health"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/5sVn8Ks/technology-communication-icons-symbols-concept.jpg",
+    "title": "Traveling the World",
+    "author": "Emily Brown",
+    "author_img": "https://example.com/emily_brown.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": 75,
+    "hashtags": ["travel", "adventure", "explore"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/5sVn8Ks/technology-communication-icons-symbols-concept.jpg",
+    "title": "Art and Culture",
+    "author": "Michael Wang",
+    "author_img": "https://example.com/michael_wang.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": 50,
+    "hashtags": ["art", "culture", "history"]
+  }
+]
+
+
